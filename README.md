@@ -25,7 +25,7 @@ A modern web application built with Next.js and TypeScript, featuring a robust p
 
 1. Clone the repository
 ```bash
-git clone [<repository-url>](https://github.com/Baseem-Ali-ch/Banking-app.git)
+git clone https://github.com/Baseem-Ali-ch/Banking-app.git
 ```
 
 2. Install dependencies
